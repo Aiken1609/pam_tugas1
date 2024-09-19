@@ -33,7 +33,7 @@ class _PageHomeState extends State<PageHome> {
             NavigationDestination(
               selectedIcon: Icon(Icons.calculate),
               icon: Icon(Icons.calculate_outlined),
-              label: 'Kalkulator',
+              label: 'Tamkur',
             ),
             NavigationDestination(
               icon: Icon(Icons.assignment_add),
